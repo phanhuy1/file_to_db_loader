@@ -1,0 +1,5 @@
+
+requirements
+pandas==1.5.0
+sqlalchemy==1.4.41
+pyscopg2-binary==2.9.4
